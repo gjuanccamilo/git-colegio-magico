@@ -1,7 +1,7 @@
 package com.colegiomagico.reto5;
 
 /**
- * Suma todos los números desde 1 hasta limite usando un ciclo while.
+ * Suma todos los números desde 1 hasta limite usando un ciclo while
  */
 public class ConteoMagico {
 
