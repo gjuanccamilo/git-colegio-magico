@@ -10,6 +10,6 @@ public class InvocacionFamiliar {
     }
 
     public static void main(String[] args) {
-        System.out.println(invocar("Cristian", "Lechuza"));
+        System.out.println(invocar("cristian", "Lechuza"));
     }
 }
